@@ -1,3 +1,5 @@
+# Solution to problem Distribute_Money_to_Maximum_Children
+# Problem ID: 2591
 class Solution:
     def distMoney(self, money: int, children: int) -> int:
         if children > money:
